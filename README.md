@@ -1,5 +1,7 @@
 # markopolo-ai-woocommerce-plugin
+
 ### WooCommerce Plugin for Markopolo.ai - MarkTag
+
 Tags: analytics, first party tracker, CAPI, ga4, pixel, tracking, markopolo, woocommerce
 Requires at least: 4.7
 Tested up to: 5.4
@@ -38,6 +40,20 @@ For help setting up the plugin, please contact our support team at support@marko
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.2 - 2023-12-07 =
 
-- Initial release
+**Marktag - Conversion Tracking**
+
+- Added support for PHP7.4
+
+= 1.0.1 - 2023-11-04 =
+
+**Marktag - Conversion Tracking**
+
+- Bug fixes and improvements
+
+= 1.0.0 - 2023-10-02 =
+
+**Marktag - Conversion Tracking**
+
+- Initial Release
